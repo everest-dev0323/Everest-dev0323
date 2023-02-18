@@ -9,7 +9,7 @@
 </head>
 <body>
 
-### Hi there 👋 I'm Tony Jefferson 🙂
+### Hi there
 <div align="center">
 	<br>
   <img src="about-me.svg" width="800" height="auto" alt="Click to see the source">
