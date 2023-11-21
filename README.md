@@ -15,20 +15,6 @@
   <img src="about-me.svg" width="800" height="auto" alt="Click to see the source">
 </div>
 
-### **Contact Me**
-
-<p align='center'>
-  <a href="https://t.me/everest0323">
-    <img src="https://img.shields.io/badge/telegram-26A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:tony0323jefferson@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
-    <a href="https://discordapp.com/users/aristoteles#0390">
-    <img src="https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
-
 ### GitHub Status 😎
 <div id='profile-them'><a class='github-status' href='https://github.com/everest-dev0323'><img width="45%" src='https://github-readme-stats.vercel.app/api?username=LucasWongC&show_icons=true&theme=radical' />
 <a class='Most-used-languages' href='https://github.com/LucasWongC'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LucasWongC&layout=compact' />
